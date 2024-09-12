@@ -30,5 +30,5 @@ Dashboard Contents & Analysis:
     Bar chart for orders by points of sales.
 
 ![Screenshot 2024-09-12 075602](https://github.com/user-attachments/assets/608a1a3d-f052-4c4e-b124-328f70252b26)
-![Screenshot 2024-09-12 075637](https://github.com/user-attachments/assets/71118721-e908-4511-b06c-48ed14783c34)
 ![Screenshot 2024-09-12 075624](https://github.com/user-attachments/assets/9753ec79-cc58-42d4-bf94-4b240c657375)
+![Screenshot 2024-09-12 075637](https://github.com/user-attachments/assets/71118721-e908-4511-b06c-48ed14783c34)
